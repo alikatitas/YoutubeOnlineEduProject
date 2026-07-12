@@ -51,7 +51,7 @@ namespace OnlineEdu.Business.Concrete
 
         public void TUpdate(T entity)
         {
-            return _repository.Update(entity);
+            _repository.Update(entity);
         }
     }
 }

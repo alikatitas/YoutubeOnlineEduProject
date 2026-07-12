@@ -161,10 +161,10 @@ C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineE
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\OnlineEd.8A630DBF.Up2Date
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\OnlineEdu.API.dll
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\refint\OnlineEdu.API.dll
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\OnlineEdu.API.pdb
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\OnlineEdu.API.genruntimeconfig.cache
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\obj\Debug\net10.0\ref\OnlineEdu.API.dll
+C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.API\bin\Debug\net10.0\AutoMapper.dll

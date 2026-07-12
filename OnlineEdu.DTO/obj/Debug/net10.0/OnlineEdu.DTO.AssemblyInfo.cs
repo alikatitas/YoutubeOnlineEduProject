@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineEdu.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08962f9e144b732ea481d2213ac55c2040fa0fa2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6512c5ec6b2b5e9c0795580c01a685d5a26fce0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineEdu.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineEdu.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

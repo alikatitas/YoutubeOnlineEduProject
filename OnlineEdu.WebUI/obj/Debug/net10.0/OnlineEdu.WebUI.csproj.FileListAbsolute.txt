@@ -22,7 +22,6 @@ C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineE
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.WebUI\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.WebUI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.WebUI\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.WebUI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.WebUI\obj\Debug\net10.0\OnlineEdu.WebUI.dll
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.WebUI\obj\Debug\net10.0\refint\OnlineEdu.WebUI.dll
 C:\Users\alika\OneDrive\Desktop\Tutorials\DotNet\YoutubeOnlineEduProject\OnlineEdu.WebUI\obj\Debug\net10.0\OnlineEdu.WebUI.pdb

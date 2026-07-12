@@ -171,7 +171,7 @@ namespace OnlineEdu.DataAccess.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseId"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int>("CourseCategoryId")
                         .HasColumnType("int");
 
                     b.Property<string>("CourseName")
@@ -190,7 +190,7 @@ namespace OnlineEdu.DataAccess.Migrations
 
                     b.HasKey("CourseId");
 
-                    b.HasIndex("CategoryId");
+                    b.HasIndex("CourseCategoryId");
 
                     b.ToTable("Courses");
                 });
@@ -342,13 +342,13 @@ namespace OnlineEdu.DataAccess.Migrations
 
             modelBuilder.Entity("OnlineEdu.Entity.Entities.Course", b =>
                 {
-                    b.HasOne("OnlineEdu.Entity.Entities.CourseCategory", "Category")
+                    b.HasOne("OnlineEdu.Entity.Entities.CourseCategory", "CourseCategory")
                         .WithMany("Course")
-                        .HasForeignKey("CategoryId")
+                        .HasForeignKey("CourseCategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Category");
+                    b.Navigation("CourseCategory");
                 });
 
             modelBuilder.Entity("OnlineEdu.Entity.Entities.BlogCategory", b =>
