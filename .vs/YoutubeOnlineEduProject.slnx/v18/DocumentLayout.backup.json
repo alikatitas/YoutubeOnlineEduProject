@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E37EC6DA-7150-4DCB-B32A-628ECD11CBC0}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\alika\\onedrive\\desktop\\tutorials\\dotnet\\youtubeonlineeduproject\\onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37EC6DA-7150-4DCB-B32A-628ECD11CBC0}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A65E4A2-3160-050B-1AFC-94D8C42EB24A}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|c:\\users\\alika\\onedrive\\desktop\\tutorials\\dotnet\\youtubeonlineeduproject\\onlineedu.dataaccess\\onlineedu.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A65E4A2-3160-050B-1AFC-94D8C42EB24A}|OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj|solutionrelative:onlineedu.dataaccess\\onlineedu.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.WebUI\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Program.cs",
-              "ToolTip": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.WebUI\\Program.cs",
-              "RelativeToolTip": "OnlineEdu.WebUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T11:36:11.065Z",
+              "Title": "OnlineEdu.DataAccess",
+              "DocumentMoniker": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
+              "RelativeDocumentMoniker": "OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
+              "RelativeToolTip": "OnlineEdu.DataAccess\\OnlineEdu.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-12T12:23:36.746Z",
               "EditorCaption": ""
             }
           ]
