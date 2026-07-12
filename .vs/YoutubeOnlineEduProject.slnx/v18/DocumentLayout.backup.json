@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73564393-E7A7-41FC-8350-9A9255D8784A}|OnlineEdu.API\\OnlineEdu.API.csproj|c:\\users\\alika\\onedrive\\desktop\\tutorials\\dotnet\\youtubeonlineeduproject\\onlineedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73564393-E7A7-41FC-8350-9A9255D8784A}|OnlineEdu.API\\OnlineEdu.API.csproj|solutionrelative:onlineedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E37EC6DA-7150-4DCB-B32A-628ECD11CBC0}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|c:\\users\\alika\\onedrive\\desktop\\tutorials\\dotnet\\youtubeonlineeduproject\\onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EC6DA-7150-4DCB-B32A-628ECD11CBC0}|OnlineEdu.WebUI\\OnlineEdu.WebUI.csproj|solutionrelative:onlineedu.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.API\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineEdu.API\\Program.cs",
-              "ToolTip": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.API\\Program.cs",
-              "RelativeToolTip": "OnlineEdu.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineEdu.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\alika\\OneDrive\\Desktop\\Tutorials\\DotNet\\YoutubeOnlineEduProject\\OnlineEdu.WebUI\\Program.cs",
+              "RelativeToolTip": "OnlineEdu.WebUI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T11:21:15.26Z",
+              "WhenOpened": "2026-07-12T11:36:11.065Z",
               "EditorCaption": ""
             }
           ]
