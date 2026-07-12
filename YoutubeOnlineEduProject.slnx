@@ -4,5 +4,5 @@
   <Project Path="OnlineEdu.DataAccess/OnlineEdu.DataAccess.csproj" />
   <Project Path="OnlineEdu.DTO/OnlineEdu.DTO.csproj" />
   <Project Path="OnlineEdu.Entity/OnlineEdu.Entity.csproj" />
-  <Project Path="OnlineEdu.WebUI/OnlineEdu.WebUI.csproj" Id="e37ec6da-7150-4dcb-b32a-628ecd11cbc0" />
+  <Project Path="OnlineEdu.WebUI/OnlineEdu.WebUI.csproj" Id="a88f3444-a754-481a-891e-62be66826839" />
 </Solution>
